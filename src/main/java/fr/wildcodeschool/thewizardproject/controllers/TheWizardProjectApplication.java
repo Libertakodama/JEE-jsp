@@ -1,3 +1,4 @@
+
 package fr.wildcodeschool.thewizardproject.controllers;
 
 import org.springframework.boot.SpringApplication;
